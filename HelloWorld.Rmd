@@ -12,4 +12,3 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## This is a markdown file
 
-## This is a changed Markdown File
